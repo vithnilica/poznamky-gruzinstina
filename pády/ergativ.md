@@ -12,7 +12,7 @@ V gruzínštině existuje speciální pád, který se v žádném ze současnýc
 
 - **Substantiva s kořenem končícím na samohlásku** v ergativu přibírají koncovku (-მ):  
 
-(დედა-**მ**, ხე-**მ**, გოგო-**მ**, ბუ -**მ**)
+(დედა-**მ**, ხე-**მ**, გოგო-**მ**, ბუ-**მ**)
 
 ---
 
